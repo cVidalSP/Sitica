@@ -32,7 +32,7 @@ export default function Home(){
 
                 <div className="mainTextEmailContainer"> 
                     <p> We are going to launch </p>
-                    <p> things taht <b>helps</b> to improve...</p>
+                    <p> things that <b>helps</b> to improve...</p>
                 </div>
 
                 <form onSubmit={handleNotify} className="formEmailContainer">
