@@ -1,0 +1,28 @@
+.footerContainer p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #afafaf;
+}
+
+.graficSparkText{
+    margin-left: 10px;
+    background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-weight: 900;
+}
+
+@media screen and (min-width: 1300px) {
+    .footerContainer{
+        position: absolute;
+        bottom: 80px;
+        left: 100px;
+     }
+}
+
+@media screen and (max-width: 1300px) {
+    .footerContainer{
+        padding: 50px;
+     }
+}
