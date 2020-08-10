@@ -10,9 +10,10 @@
 
 .app{
   display: flex;
+  height: 100vh;
   flex-direction: column;
   margin: 0;
-  justify-content: center;
+  background-color: rgb(247, 247, 247);
   align-items: center;
 }
 

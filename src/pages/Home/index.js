@@ -25,7 +25,7 @@ export default function Home(){
     }
 
     return (
-        <div className="mainContainer">
+        <div className="mainContainerHome">
             <div className="emailContainer">
 
                 <p className="headerEmailContainer"> DO YOU EVER WORRY ABOUT </p>

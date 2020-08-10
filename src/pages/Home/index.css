@@ -1,28 +1,3 @@
-.emailContainer{
-    height: 400px;
-    width: 60%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-}
-
-.emailContainer form{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    border: 1px solid grey;
-    padding: 2px;
-    width: 480px;
-    border: none !important;
-    height: 50px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    border-radius: 20px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-}
-
 .headerEmailContainer{
     color: #afafaf;
     font-weight: 650;
@@ -38,13 +13,13 @@
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
 }
 .formEmailContainer input{
-    letter-spacing: 0.7px;
+    letter-spacing: 1.4px;
+    font-size: 18px;
     width: 70%;
     background: transparent;
     border: 0;
     margin-right: 5px;
 }
-
 .formEmailContainer button{
     width: 100px;
     border: none;
@@ -64,23 +39,6 @@
 .emailIcon{
     margin-left: 5px;
 }
-.carouselContainer{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-}
-.card{
-    width: 260px;
-    height: 330px;
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    background-color: #fff;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
 .cardTitle{
     display: flex;
     flex-direction: row;
@@ -96,7 +54,6 @@
 .block{
     width: 50px;
     height: 50px;
-    /* background-image: linear-gradient(to bottom right, #835afc, #d77cff); */
     border-radius: 14px; 
     display: flex;
     align-items: center;
@@ -131,28 +88,467 @@
     transform: scale(1.06);
     cursor: pointer;
 }
-.btnContainer{
-    display: flex;
-    flex-direction: row;
-    height: 100px;
-    justify-content: space-around;
-    align-items: flex-end;
-    min-width: 140px;
-    margin-right: 14%;
-}
 
 .btnNavCarousel:hover{
     color: #fff;
     background-image: linear-gradient(to bottom right, #835afc, #d77cff)
 }
 
-@media screen and (min-width: 1300px) {
-    .mainContainer{
+@media screen and (min-width: 320px) {
+    .mainContainerHome{
+        padding: 50px 0 50px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 320px;
+        display: flex;
+        flex-direction: column;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .emailContainer form{
+        margin-right: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 100%;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 12px 8px 0 rgba(83, 83, 83, 0.1);
+        transition: 0.3s;
+    }
+    .cardsContainer{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .carouselContainer{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .card{
+        width: 98%;
+        height: 330px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    .btnContainer{
+        width: 140px;
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        justify-content: center;
+    }
+    .btnNavCarousel{
+        margin: 0 15px 0 15px;
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background-image: none;
+        transition: 0.3s;
+        color: #835afc;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    }
+}
+
+@media screen and (min-width: 375px) {
+    .mainContainerHome{
+        padding: 50px 0 50px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 1650px;
+        display: flex;
+        flex-direction: column;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .emailContainer form{
+        margin-right: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 100%;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 12px 8px 0 rgba(83, 83, 83, 0.1);
+        transition: 0.3s;
+    }
+    .cardsContainer{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .carouselContainer{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .card{
+        width: 98%;
+        height: 330px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    .btnContainer{
+        width: 140px;
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        justify-content: center;
+    }
+    .btnNavCarousel{
+        margin: 0 15px 0 15px;
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background-image: none;
+        transition: 0.3s;
+        color: #835afc;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .mainContainerHome{
+        padding: 50px 0 50px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 425px;
+        display: flex;
+        flex-direction: column;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .emailContainer form{
+        margin-right: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 100%;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 12px 8px 0 rgba(83, 83, 83, 0.1);
+        transition: 0.3s;
+    }
+    .cardsContainer{
+        width: auto;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .carouselContainer{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .card{
+        width: 98%;
+        height: 330px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    .btnContainer{
+        width: 140px;
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        justify-content: center;
+    }
+    .btnNavCarousel{
+        margin: 0 15px 0 15px;
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background-image: none;
+        transition: 0.3s;
+        color: #835afc;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .mainContainerHome{
+        padding: 50px 0 50px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 768px;
+        display: flex;
+        flex-direction: column;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 420px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .emailContainer form{
+        margin-right: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 350px;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 12px 8px 0 rgba(83, 83, 83, 0.1);
+        transition: 0.3s;
+    }
+    .cardsContainer{
+        width: auto;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .carouselContainer{
         width: 100%;
         display: flex;
         flex-direction: row;
+        justify-content: space-evenly;
     }
+    .card{
+        width: 260px;
+        height: 330px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    .btnContainer{
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        width: 100%;
+        justify-content: space-around;
+        align-items: center;
+        justify-content: center;
+    }
+    .btnNavCarousel{
+        margin: 0 15px 0 15px;
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background-image: none;
+        transition: 0.3s;
+        color: #835afc;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    }
+}
 
+@media screen and (min-width: 1024px) {
+    .mainContainerHome{
+        padding: 220px 0 180px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 1024px;
+        display: flex;
+        flex-direction: row;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 420px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .emailContainer form{
+        margin-right: 20px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 350px;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 12px 8px 0 rgba(83, 83, 83, 0.1);
+        transition: 0.3s;
+    }
+    .cardsContainer{
+        width: auto;
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-end;
+    }
+    .carouselContainer{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+    .card{
+        width: 260px;
+        height: 330px;
+        margin-left: 10px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
+    .btnContainer{
+        width: 140px;
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+        justify-content: space-around;
+        align-items: flex-end;
+        min-width: 140px;
+    }
+    .btnNavCarousel{
+        width: 45px;
+        height: 45px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        background-image: none;
+        transition: 0.3s;
+        color: #835afc;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
+    }
+}
+
+@media screen and (min-width: 1440px) {
+       
+    .mainContainerHome{
+        padding: 150px 0 150px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 1440px;
+        display: flex;
+        flex-direction: row;
+    }
+    .emailContainer{
+        height: 400px;
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    } 
+    .emailContainer form{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        border: 1px solid grey;
+        padding: 2px;
+        width: 480px;
+        border: none !important;
+        height: 50px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        transition: 0.3s;
+    }
     .cardsContainer{
         width: 60%;
         height: 400px;
@@ -161,14 +557,32 @@
         justify-content: center;
         align-items: flex-end;
     }
+    .carouselContainer{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+}
+    .card{
+        width: 260px;
+        height: 330px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    }
     .btnContainer{
         display: flex;
+        width: 140px;
         flex-direction: row;
         height: 100px;
         justify-content: space-around;
         align-items: flex-end;
         min-width: 140px;
-        margin-right: 14%;
+        margin-right: 10%;
     }
     .btnNavCarousel{
         width: 45px;
@@ -182,43 +596,14 @@
         color: #835afc;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
     }
-
 }
-@media screen and (max-width: 1299px) {
-    .mainContainer{
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-    }
-
-    .cardsContainer{
-        width: 90%;
-        height: 400px;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: flex-end;
-    }
-    .btnContainer{
+@media screen and (min-width: 2400px) {
+    .mainContainerHome{
+        padding: 90px 0 150px 0;
+        z-index: 1;
+        width: 80%;
+        max-width: 1440px;
         display: flex;
         flex-direction: row;
-        height: 100px;
-        justify-content: center;
-        align-items: center;
-        width: 100%;
-        margin: 0;
-    }
-    .btnNavCarousel{
-        width: 45px;
-        height: 45px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        border-radius: 50%;
-        background-image: none;
-        transition: 0.3s;
-        color: #835afc;
-        margin: 24px;
-        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);  
     }
 }

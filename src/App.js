@@ -11,8 +11,8 @@ function App() {
     <div className="app">
         <Header/>
         <Routes/>
-        <Square/>
         <Footer/>
+        <Square/>
     </div>
   );
 }

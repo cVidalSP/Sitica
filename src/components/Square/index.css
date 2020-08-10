@@ -1,24 +1,82 @@
-@media screen and (min-width: 1300px) {
+@media screen and (min-width: 320px) {
     .mainSquare{
         position: fixed;
-        width: 1200px;
-        height: 1200px;
+        width: 300px;
+        height: 500px;
         border-radius: 15px;
-        z-index: -1;
-        transform: rotate(67deg) translate(-400px, -400px) skewY(-14deg);
-        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );;
+        z-index: 0;
+        transform: translateY(-320px) translateX(260px) rotate(50deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
     }
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (min-width: 375px) { 
     .mainSquare{
-        position: absolute;
-        width: 820px;
-        height: 200px;
+        position: fixed;
+        width: 300px;
+        height: 500px;
         border-radius: 15px;
-        z-index: -1;
-        transform: translateY(-500px) ;
-        opacity: 0.8;
-        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );;
+        z-index: 0;
+        transform: translateY(-310px) translateX(270px) rotate(54deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+    }
+}
+
+@media screen and (min-width: 425px) {
+    .mainSquare{
+        position: fixed;
+        width: 300px;
+        height: 500px;
+        border-radius: 15px;
+        z-index: 0;
+        transform: translateY(-300px) translateX(260px) rotate(54deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .mainSquare{
+        position: fixed;
+        width: 500px;
+        height: 700px;
+        border-radius: 15px;
+        z-index: 0;
+        transform: translateY(-420px) translateX(260px) rotate(54deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .mainSquare{
+        position: fixed;
+        width: 700px;
+        height: 900px;
+        border-radius: 15px;
+        z-index: 0;
+        transform: translateY(-450px) translateX(260px) rotate(54deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .mainSquare{
+        position: fixed;
+        width: 800px;
+        height: 1000px;
+        border-radius: 15px;
+        z-index: 0;
+        transform: translateY(-500px) translateX(240px) rotate(52deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+    }
+}
+@media screen and (min-width: 2400px) {
+    .mainSquare{
+        position: fixed;
+        width: 1000px;
+        height: 1200px;
+        border-radius: 15px;
+        z-index: 0;
+        transform: translateY(-650px) translateX(240px) rotate(52deg);
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
     }
 }
