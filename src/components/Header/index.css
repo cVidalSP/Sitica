@@ -133,6 +133,7 @@
     font-size: 24px;
     text-align:  center;
     font-size: 22px;
+    margin-bottom: 5vh;
 }
 /* --------------------- Menu ---------------------------  */
 
@@ -159,10 +160,9 @@
     .menuToggleItems
     {
         display: flex;
-        justify-content: space-between;
         position: fixed;
         width: 200px;
-        height: 420px;
+        height: 100vh;
         margin: -100px 0 0 -140px;
         padding: 50px;
         padding-top: 125px;
@@ -196,10 +196,9 @@
     .menuToggleItems
     {
         display: flex;
-        justify-content: space-between;
         position: fixed;
         width: 200px;
-        height: 420px;
+        height: 100vh;
         margin: -100px 0 0 -160px;
         padding: 50px;
         padding-top: 125px;
@@ -232,10 +231,9 @@
     .menuToggleItems
     {
         display: flex;
-        justify-content: space-between;
         position: fixed;
         width: 200px;
-        height: 420px;
+        height: 100vh;
         margin: -100px 0 0 -140px;
         padding: 50px;
         padding-top: 125px;
@@ -269,10 +267,9 @@
     .menuToggleItems
     {
         display: flex;
-        justify-content: space-between;
         position: fixed;
         width: 200px;
-        height: 420px;
+        height: 60vh;
         margin: -100px 0 0 -150px;
         padding: 50px;
         padding-top: 125px;

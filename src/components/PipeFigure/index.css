@@ -1,0 +1,1132 @@
+@media screen and (min-width: 320px) {
+    .pipe1{
+        width: 30px;
+        height: 260px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 65vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 10px;
+        height: 160px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -6vh;
+        left: 52vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 2vh;
+        left: 6vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 40px;
+        height: 120px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 500vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 62vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 120px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 22vh;
+        left: 74vw;
+        opacity: 0.1;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 20px;
+        height: 100px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 70vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 140px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 39vh;
+        left: 48vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 235px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 57vw;
+        opacity: 0.4;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 340px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 56vh;
+        left: 5vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 85vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+@media screen and (min-width: 375px) {
+    .pipe1{
+        width: 30px;
+        height: 260px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -12vh;
+        left: 48vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 10px;
+        height: 160px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -6vh;
+        left: 40vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 2vh;
+        left: 6vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 40px;
+        height: 120px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 75vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 62vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 120px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 16vh;
+        left: 72vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 20px;
+        height: 100px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 54vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 140px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 34vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 235px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 57vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 340px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 56vh;
+        left: 5vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 85vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+@media screen and (min-width: 425px) {
+    .pipe1{
+        width: 30px;
+        height: 260px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 44vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 10px;
+        height: 160px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -6vh;
+        left: 38vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 2vh;
+        left: 6vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 40px;
+        height: 120px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 75vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 62vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 120px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 16vh;
+        left: 72vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 20px;
+        height: 100px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 54vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 140px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 34vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 235px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 57vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 340px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 56vh;
+        left: 5vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 85vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+@media screen and (min-width: 768px) {
+    .pipe1{
+        width: 30px;
+        height: 300px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 35vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 10px;
+        height: 220px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -6vh;
+        left: 32vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 8vh;
+        left: 4vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 50px;
+        height: 220px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -6vh;
+        left: 74vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 60vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 120px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 14vh;
+        left: 78vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 40px;
+        height: 100px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 45vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 140px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 30vh;
+        left: 54vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 380px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 340px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 56vh;
+        left: 5vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 85vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+@media screen and (min-width: 1024px) {
+    .pipe1{
+        width: 30px;
+        height: 300px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 22vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 10px;
+        height: 220px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 9vh;
+        left: 25vw;
+        opacity: 0.3;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 18vh;
+        left: 10vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 50px;
+        height: 220px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 81vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 43vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 120px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 15vh;
+        left: 78vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 40px;
+        height: 300px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 40vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 240px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 380px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 340px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 56vh;
+        left: 5vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 85vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+@media screen and (min-width: 1440px) {
+    .pipe1{
+        width: 50px;
+        height: 500px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 28vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 20px;
+        height: 450px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 24vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 15vh;
+        left: 10vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 50px;
+        height: 220px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 81vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 43vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 15vh;
+        left: 72vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 40px;
+        height: 300px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 40vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 240px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 55vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 380px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 59vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 90vh;
+        left: 78vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 240px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 57vh;
+        left: 10vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 18vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 180px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 52vh;
+        left: 86vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
+
+@media screen and (min-width: 2400px) {
+    .pipe1{
+        width: 50px;
+        height: 700px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 37vw;
+    
+        border-radius: 50px;
+    }
+    .pipe2{
+        width: 20px;
+        height: 450px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 31vw;
+    
+        border-radius: 50px;
+    }
+    .pipe3{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 15vh;
+        left: 20vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe4{
+        width: 50px;
+        height: 280px;
+        background: linear-gradient(to bottom left, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -5vh;
+        left: 71vw;
+    
+        border-radius: 50px;
+    }
+    .pipe5{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 70vh;
+        left: 43vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe6{
+        width: 10px;
+        height: 100px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 15vh;
+        left: 72vw;
+    
+        border-radius: 50px;
+    }
+    .pipe7{
+        width: 40px;
+        height: 300px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -10vh;
+        left: 40vw;
+    
+        border-radius: 50px;
+    }
+    .pipe8{
+        width: 10px;
+        height: 240px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: -4vh;
+        left: 55vw;
+    
+        border-radius: 50px;
+    }
+    .pipe9{
+        width: 10px;
+        height: 380px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 76vh;
+        left: 52vw;
+    
+        border-radius: 50px;
+    }
+    .pipe10{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 90vh;
+        left: 65vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+    .pipe11{
+        width: 16px;
+        height: 240px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 57vh;
+        left: 16vw;
+        opacity: 0.6;
+    
+        border-radius: 50px;
+    }
+    .pipe12{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 62vh;
+        left: 20vw;
+    
+        border-radius: 50px;
+    }
+    .pipe13{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to top right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 58vh;
+        left: 84vw;
+    
+        border-radius: 50px;
+    }
+    .pipe14{
+        width: 10px;
+        height: 200px;
+        background: linear-gradient(to bottom right, #835afc 0%, #d77cff );
+        transform: rotate(-38deg);
+        position: fixed;
+        top: 32vh;
+        left: 88vw;
+        opacity: 0.2;
+    
+        border-radius: 50px;
+    }
+}
